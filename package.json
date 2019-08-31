@@ -18,7 +18,7 @@
   "homepage": "https://github.com/meathill-lecture/galiao#readme",
   "dependencies": {
     "json-loader": "^0.5.7",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
   }
 }
